@@ -1,0 +1,11 @@
+{
+    "name": "ExTESTion",
+    "version": "1.0.0",
+    "description": "testing chrome extension",
+    "manifest_version": 3,
+    "author": "Antonio Oliveira",
+    "action":{
+        "default_popup": "popup.html",
+        "default_title": "ExTESTion"
+    }
+}
