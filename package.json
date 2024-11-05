@@ -17,11 +17,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "webPackBuild": "webpack --config webpack.config.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "webPackBuild": "webpack --config webpack.config.js",
     "webPackWatch": "webpack -w --config webpack.config.js"
   },
   "eslintConfig": {
