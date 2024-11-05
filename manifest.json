@@ -1,11 +1,11 @@
 {
-    "name": "ExTESTion",
+    "name": "Div Deleter",
     "version": "1.0.0",
-    "description": "testing chrome extension",
+    "description": "Clearing websites removing non used items.",
     "manifest_version": 3,
     "author": "Antonio Oliveira",
     "action":{
-        "default_popup": "popup.html",
-        "default_title": "ExTESTion"
+        "default_popup": "/js/index.html",
+        "default_title": "Div Deleter"
     }
 }
